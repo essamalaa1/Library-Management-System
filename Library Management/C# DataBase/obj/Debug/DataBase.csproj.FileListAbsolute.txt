@@ -1,0 +1,51 @@
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.Form2.resources
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.Form3.resources
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.Form4.resources
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.Form5.resources
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.Form6.resources
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Essam\source\repos\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Essam\source\repos\DataBase\bin\Debug\DataBase.exe
+C:\Users\Essam\source\repos\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.exe
+C:\Users\Essam\source\repos\DataBase\obj\Debug\DataBase.pdb
+C:\Users\pc\Desktop\Database\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\pc\Desktop\Database\DataBase\bin\Debug\DataBase.exe
+C:\Users\pc\Desktop\Database\DataBase\bin\Debug\DataBase.pdb
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.Form2.resources
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.Form3.resources
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.Form4.resources
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.Form5.resources
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.Form6.resources
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.exe
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.pdb
+C:\Users\pc\Desktop\Database\DataBase\obj\Debug\DataBase.Form7.resources
+C:\Users\pc\Desktop\Database\C# DataBase\bin\Debug\DataBase.exe.config
+C:\Users\pc\Desktop\Database\C# DataBase\bin\Debug\DataBase.exe
+C:\Users\pc\Desktop\Database\C# DataBase\bin\Debug\DataBase.pdb
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Form2.resources
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Form3.resources
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Form4.resources
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Form5.resources
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Form6.resources
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Form7.resources
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.exe
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.pdb
+C:\Users\pc\Desktop\Database\C# DataBase\obj\Debug\DataBase.Form8.resources
